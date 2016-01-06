@@ -1,2 +1,2 @@
 # damon1
-template number 1
+ this is the site using template number 1
